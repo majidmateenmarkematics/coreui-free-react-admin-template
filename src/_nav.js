@@ -52,6 +52,11 @@ export default {
           icon: 'icon-puzzle',
         },
         {
+          name: 'CustomCards',
+          url: '/base/customcards',
+          icon: 'icon-puzzle',
+        },
+        {
           name: 'Carousels',
           url: '/base/carousels',
           icon: 'icon-puzzle',
